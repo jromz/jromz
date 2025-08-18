@@ -11,22 +11,23 @@ My journey in cybersecurity has led me to develop a passion for internetworking,
 
 | Skill                                         | Associated Project           |
 | --------------------------------------------- | ---------------------------- |
-| Basic Device Configuration (CLI, IP addressing, passwords, banners) | Lab 1 – Basic Config         |
-| VLANs & Inter-VLAN Routing (Router-on-a-stick / L3 switch)          | Lab 2 – VLAN Lab             |
-| Spanning Tree Protocol (STP) for redundancy                         | Lab 3 – STP Lab              |
-| EtherChannel (LACP/PAgP)                                            | Lab 4 – EtherChannel Lab     |
-| Static Routing & Default Routes                                     | Lab 5 – Static Routing Lab   |
-| Dynamic Routing (RIP, OSPF, EIGRP)                                  | Lab 6 – Dynamic Routing Lab  |
-| Access Control Lists (ACLs)                                         | Lab 7 – ACL Lab              |
-| Network Address Translation (NAT/PAT)                               | Lab 8 – NAT Lab              |
-| DHCP Configuration & Relay                                          | Lab 9 – DHCP Lab             |
-| IPv6 Addressing & OSPFv3                                            | Lab 10 – IPv6 Lab            |
-| WAN Connectivity (PPP, GRE, Frame Relay)                            | Lab 11 – WAN Lab             |
-| First Hop Redundancy (HSRP/VRRP/GLBP)                               | Lab 12 – Redundancy Lab      |
-| Syslog & SNMP Monitoring                                            | Lab 13 – Monitoring Lab      |
-| Wireless LAN (WLC, SSIDs, security)                                 | Lab 14 – Wireless Lab        |
-| QoS Basics (traffic prioritization)                                 | Lab 15 – QoS Lab             |
-| Troubleshooting Methodology                                         | Lab 16 – Troubleshooting Lab |
+| Basic Device Configuration (CLI, IP addressing, passwords, banners) | Lab 1 – Basic Config *(in progress)* |
+| VLANs & Inter-VLAN Routing (Router-on-a-stick / L3 switch)          | Lab 2 – VLAN Lab *(in progress)*   |
+| Spanning Tree Protocol (STP) for redundancy                         | Lab 3 – STP Lab *(in progress)*    |
+| EtherChannel (LACP/PAgP)                                            | Lab 4 – EtherChannel Lab *(in progress)* |
+| Static Routing & Default Routes                                     | Lab 5 – Static Routing Lab *(in progress)* |
+| Dynamic Routing (RIP, OSPF, EIGRP)                                  | Lab 6 – Dynamic Routing Lab *(in progress)* |
+| Access Control Lists (ACLs)                                         | Lab 7 – ACL Lab *(in progress)*    |
+| Network Address Translation (NAT/PAT)                               | Lab 8 – NAT Lab *(in progress)*    |
+| DHCP Configuration & Relay                                          | Lab 9 – DHCP Lab *(in progress)*   |
+| IPv6 Addressing & OSPFv3                                            | Lab 10 – IPv6 Lab *(in progress)*  |
+| WAN Connectivity (PPP, GRE, Frame Relay)                            | Lab 11 – WAN Lab *(in progress)*   |
+| First Hop Redundancy (HSRP/VRRP/GLBP)                               | Lab 12 – Redundancy Lab *(in progress)* |
+| Syslog & SNMP Monitoring                                            | Lab 13 – Monitoring Lab *(in progress)* |
+| Wireless LAN (WLC, SSIDs, security)                                 | Lab 14 – Wireless Lab *(in progress)* |
+| QoS Basics (traffic prioritization)                                 | Lab 15 – QoS Lab *(in progress)*   |
+| Troubleshooting Methodology                                         | Lab 16 – Troubleshooting Lab *(in progress)* |
+| Final Enterprise Integration (all features combined)               | Mega Lab *(in progress)*          |
 | Ubuntu Linux Server Installation & Configuration                    | Ubuntu Linux Server Homelab          |
 | DHCP Reservation & Static IP Mapping                                 | Ubuntu Linux Server Homelab          |
 | Secure Remote Access (OpenSSH, XRDP)                                 |Ubuntu Linux Server Homelab          |
