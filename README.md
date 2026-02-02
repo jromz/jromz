@@ -1,11 +1,10 @@
 # Hi, I'm Jerome!
 <a href="https://www.linkedin.com/in/jerome-landagan-61943227a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a CCNA and CompTIA Security+ certified Cybersecurity student. I love solving problems, and I have the goal of working as a Network Security Engineer.
-
+I'm a CCNA and CompTIA Security+ certified Cybersecurity student. Currently serving as the Vice President of LSC-CyFair's Cybersecurity Club.
 ## Objective
 
-My journey in cybersecurity has led me to develop a passion for internetworking, and I am now eager to transition into this field, specifically aiming to join a Network Operations Center (NOC) as a Tier 1 Analyst.
+I'm very interested in network infrastructure and security, I love solving problems, and I'd love to work as a Network Security Engineer.
 
 ## Projects
 - [Ubuntu Linux Server Homelab](https://github.com/jromz/jerome-homeserver)
