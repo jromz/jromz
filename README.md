@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/jerome-landagan-61943227a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a CCNA and CompTIA Security+ certified Cybersecurity student. Currently serving as the Vice President of LSC-CyFair's Cybersecurity Club.
-## Objective
-
-I'm very interested in network infrastructure and security, I love solving problems, and I'd love to work as a Network Security Engineer.
 
 ## Projects
 - [Ubuntu Linux Server Homelab](https://github.com/jromz/jerome-homeserver)
